@@ -1,2 +1,2 @@
 # portofolio
-https://app.netlify.com/sites/barbu-narcis-portofolio/settings/access
+https://barbu-narcis-portofolio.netlify.app/
